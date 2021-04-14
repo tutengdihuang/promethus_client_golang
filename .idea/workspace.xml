@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57c34b43-f835-4328-a9c8-6f11aedad8d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/ForTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/07panic_test/panic_in_goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/08flag/flag02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/08flag/flag_test_flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/09nettest/01IPaddress.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/10shelltest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/10shelltest/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/11locktest/lock_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/bridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/common.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/crontab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/gateway.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/grpc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/sentry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/symbol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/tracer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/trade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/13init/import_test/test1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/13init/inittest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_3daysSwap_GBP_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_3daysSwap_USD_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swapGBP_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_GBP_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_USD_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/double_leg_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/larger_leg_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_test/cross_test_tools.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_test/request_args.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tick_session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tickable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tickable_common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/17invite_code/invide_code_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/17invite_code/invite_code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire_gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/19erroGroup/erro_group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.2.Struct.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.3.Chart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/equity_cfd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/etc_only.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/apiproxy.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/apiproxy.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/source.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/trade.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/capacity_test_tools.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/equity_cfd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/etc_only.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/apiproxy.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/apiproxy.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/source.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/trade.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cpacity_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cross_type__zmq_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cross_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/decimal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errcode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errname.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/errors_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/format_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/juju_adaptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/stack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/stack_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/helper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/terror/terror.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/utils_decimal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/goconvey/goconvey_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_delete.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_expiration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_modify.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_modify_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/bridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/common.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/crontab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/gateway.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/grpc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/sentry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/swap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/symbol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/tracer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/trade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/sl_tp_mkclose_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/replace.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/source" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/to" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/funcNameReturn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/gc_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/sync_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/benchmark/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_reportDaily_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/cal_sltp_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/cal_so_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_reportDaily_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_swapGBP_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_swap_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_close_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_doubleleg_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_largerleg_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_modify_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_open_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pay_deposit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pay_withdraw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_activate_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_create_valid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_delete_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_expiration_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/BRIDGE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/BRIDGE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200407" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200408" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200410" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200413" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/PRICE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/PRICE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/order_delet_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_close_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_modify_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_open_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pay_deposit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pay_withdraw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_expiration_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_pendingprice_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_sltp_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_valid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_delete_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_modify.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/utils_test/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/validator/validator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/ACCOUNT.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BENCHMARK_LOG.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BRIDGE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BRIDGE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CALC.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CHART.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CHART.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200711" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200712" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Constant_ErrorLog.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Constant_ErrorLog.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/EVENT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/EVENT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPC.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPC.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPCZMQLag.log.20200602" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/ORDER.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/PRICE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/PRICE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/TRADE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/TRADE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Test_symbol_order_user_statistics.log.20200602" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/acc_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/actlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/repository/mock_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/mock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/price/bridge/mock_bridge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/price/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/symbol/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/mk/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/pay/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/pd/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/log/BRIDGE.log.20200509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/log/Constant_ErrorLog.log.20200509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/monkey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/monkey_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer1/dealer1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer2/dealer2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/rep/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/rep/rep.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/dealer-router/dealer-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/dealer-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/req-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/req-router/req-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/router-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/router-router/router-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pd_delete.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/pub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/pub/pub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/sub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/sub/sub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/pub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/pub/pub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub1/sub1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub2/sub2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/tasksink/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/tasksink/tasksink.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/taskvent/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/taskvent/taskvent.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker1/worker1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker2/worker2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/client/client.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/server/server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req1/req1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req2/req2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/router/router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker/broker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker_proxy/broker_proxy.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker_proxy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep1/rep1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep1/router_dealer_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep2/rep2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req1/req1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req2/req2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/helloworld/client/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/helloworld/proto/helloworld.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quantization/calc/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quantization/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/02 stringTestCompare/01stringCompare.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/02 stringTestCompare/01stringCompare.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/04TS_test/03testPrice.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/04TS_test/03testPrice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/04TS_test/profit_monitor_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/04TS_test/profit_monitor_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05gonote/02分配.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05gonote/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/05gonote/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05map定义和使用.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/binlog.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/binlog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/canalexample.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/canalexample.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/mysql-bin.001579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/compiration/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/compiration/dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/compiration/mt4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/compiration/mt4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/cpTest/08.cp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/cpTest/08.cp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/docker 学习" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/docker 学习" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/dockerFile格式" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/dockerFile格式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/installUnbutu/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/installUnbutu/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/go-performane-tuning/3.性能测量和分析/examples/words/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/go-performane-tuning/3.性能测量和分析/examples/words/main2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_profit_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_profit_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_sltp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_sltp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_so_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_so_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_3daysSwap_GBP_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_3daysSwap_GBP_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_3daysSwap_USD_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_3daysSwap_USD_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_reportDaily_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_reportDaily_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_swap_GBP_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_swap_GBP_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_swap_USD_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_swap_USD_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/double_leg_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/double_leg_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/larger_leg_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/larger_leg_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_close_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_close_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_modify_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_modify_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_open_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_open_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pay_deposit_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pay_deposit_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pay_withdraw_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pay_withdraw_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_active_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_activate_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_create_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_create_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_delete_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_delete_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_expiration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_expiration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_modify_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_modify_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/balance_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/mk_fullclose_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/mk_open_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/validator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/jaeger_test/jaeger_demo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/account.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/account.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/account_group.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/account_group.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/con_group_sec.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/con_group_sec.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/event.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/event.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/report_daily.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/report_daily.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/symbol.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/symbol.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/trade_trans_result.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/trade_trans_result.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/onemethodToSync.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/01bechmark_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/01bechmark_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/02memory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/02memory_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trading-system" beforeDir="false" afterPath="$PROJECT_DIR$/../trading-system" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simple.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/simple.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/promethus_client_golang.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="promethus_client_golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="promethus_client_golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="promethus_client_golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build simple.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="promethus_client_golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simple.go" />
+      <package value="promethus_client_golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build simple.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32771084" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../github.com/prometheus/client_golang/prometheus/promhttp/http.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="288" column="19" selection-start-line="288" selection-start-column="19" selection-end-line="288" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
